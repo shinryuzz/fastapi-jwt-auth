@@ -1,1 +1,1 @@
-# fastapi-jwt-aut
+# fastapi-jwt-auth
